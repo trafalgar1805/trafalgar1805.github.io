@@ -1,5 +1,4 @@
-# On Science
-
+# (RL) Philosophy of Science
 
 1. Causation and Counterfactuals. LA Paul
 2. Model Cases On Canonical Research Objects and Sites. Krause
@@ -8,9 +7,8 @@
 5. The logic of scientific discovery . Popper
 6. Interpretation and Social Knowledge. Reed
 7. ~~Theory and Reality. Godfrey-Smith~~
-8. ~~Against Method. Feyerabend~~
-
-
+8. ~~Against Method. Feyerabend~~ (According to Godfrey-Smith some people read Feyerabend as an enemy of science, but he sees him as an enemy of normal science. Agaisnt scientist without creativity that do the ant work of normal science. I wonder if the expansion of higher education and PhD in particular has accentuated this part of science in the last decades. Maybe some other mechanisms have intervened too. A casual observation is that, in Sociology, papers published before roughly 1980 seem more original and creative that nowadays. Maybe James Evans has something to say about this.)
+9. Labyrinths of reason. Poundstone (A popular science book on analytical philosophy, recommended in [Bactra]{http://bactra.org/reviews/labyrinths-of-reason/})
 
 
 ## On Realism
@@ -68,9 +66,3 @@ A reading list that Petri Ylikoski kindly crafted for us
 
 
 ## Others
-
-1. Poundstone, W. (Ed.). (2011). _Labyrinths of reason: Paradox, puzzles, and the frailty of knowledge_. Anchor. (Notes: A popular science book in analytical philosophy, recommended in http://bactra.org/reviews/labyrinths-of-reason/).
-
-2. Feyerabend, P. (1993). _Against method_. Verso. (Notes: According to Godfrey-Smith some people read Feyerabend as an enemy of science, but he sees him as an enemy of normal science. Agaisnt scientist without creativity that do the ant work of normal science. I wonder if the expansion of higher education and PhD in particular has accentuated this part of science in the last decades. Maybe some other mechanisms have intervened too. A casual observation is that, in Sociology, papers published before roughly 1980 seem more original and creative that nowadays. Maybe James Evans has something to say about this). 
-
-3. Fleck, L. (2012). _Genesis and development of a scientific fact_. University of Chicago Press.

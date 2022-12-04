@@ -1,5 +1,6 @@
-# Theory, theorizing, and doing social science research in general
+# (RL) Theory and Theorizing
 
+Social theory, theorizing, and doing social science research in general
 
 1. ~~Thinking through theory. Levi Martin~~
 2. ~~The explanation of social action. Levi Martin~~

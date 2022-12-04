@@ -1,5 +1,4 @@
-
-# Theory, Formal Models, and Data
+# (BP) Theory, Formal Models, and Data
 
 Theory(1) and theory(3-7) all have an important role in sociology, but theory(2) is the one non-theorists use more often and actively develop. Theory(2) is defined by \textcite{abend_meaning_2008} as ``an explanation of a particular social phenomenon". A way to produce better and more interesting explanations in sociology starts by shifting some of the debate from theory to theorizing \parencite{lizardo_end_nodate}. There are multiple approaches to theorizing, from theory construction \parencite{stinchcombe_constructing_1987} to more naturalistic perspectives \parencite{swedberg_art_2015}. Another approach is represented by the modeling tradition \parencite{lave_introduction_1993, page_model_2018}. I argue here that the formal models advocated by this tradition can be useful for sociologists in general when used within the context of discovery. Simple formal models can play a double role there. First, formal models facilitate communication among collaborators and help explore and compare theories. Second, the same models can be reused to test statistical models. 
 

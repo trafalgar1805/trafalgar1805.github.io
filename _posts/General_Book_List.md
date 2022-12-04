@@ -1,4 +1,4 @@
-# Book Reading List
+# (RL) Book Reading List
 
 ## CSS Reading List
 This is the reading list that I got for the Computational Social Science Master's at LiU
