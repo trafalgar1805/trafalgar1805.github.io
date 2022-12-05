@@ -1,5 +1,8 @@
 # (RL) Philosophy of Science
 
+
+## Misc
+
 1. Causation and Counterfactuals. LA Paul
 2. Model Cases On Canonical Research Objects and Sites. Krause
 3. Genesis and Development of a Scientific Fact. Fleck
@@ -63,6 +66,3 @@ A reading list that Petri Ylikoski kindly crafted for us
 10. Mercier, Hugo & Sperber, Dan 2017. The Enigma of Reason. Harvard University Press. (A very interesting social account of human reasoning)
 
 11. Wilson, Timothy D. 2002. Strangers to Ourselves. Discovering the Adaptive Unconscious. Belknap Press. (A readable account of non-Freudian unconscious)
-
-
-## Others

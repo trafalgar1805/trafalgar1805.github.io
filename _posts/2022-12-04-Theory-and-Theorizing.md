@@ -1,6 +1,7 @@
-# (RL) Theory and Theorizing
+# (RL) Theory, Theorizing and doing Social Science
 
-Social theory, theorizing, and doing social science research in general
+
+## Theory and theorizing
 
 1. ~~Thinking through theory. Levi Martin~~
 2. ~~The explanation of social action. Levi Martin~~
@@ -12,16 +13,32 @@ Social theory, theorizing, and doing social science research in general
 8. On sociology. Goldthorpe
 9. ~~Dissecting the social. Hedström~~
 10. An introduction to models in the social sciences. Lave and March
-11. Arguing and Thinking. Billing 
-12. Foundations of social theory. Coleman
-13. Theory and credibility. Bueno de Mesquita et al
-14. Evidence. Howard Becker
-15. Science in action. Latour
-16. Making it count. Lieberson
-17. Social theory and social structure. Merton
-18. ~~Designing social inquiry. King et al ~~
-19. ~~Constructing social theories. Stinchcombe~~
-20. An invitation to reflexive sociology. Wacquant and Bourdieu
-21. Theory for the working sociologist. Rojas
-22. ~~Seven rules for social research. Firebaugh~~
+11. Foundations of social theory. Coleman
+12. Theory and credibility. Bueno de Mesquita et al
+13. Evidence. Howard Becker
+14. Science in action. Latour
+15. Making it count. Lieberson
+16. Social theory and social structure. Merton
+17. ~~Designing social inquiry. King et al~~
+18. ~~Constructing social theories. Stinchcombe~~
+19. An invitation to reflexive sociology. Wacquant and Bourdieu
+20. Theory for the working sociologist. Rojas
+21. ~~Seven rules for social research. Firebaugh~~
+22. Social sciences as sorcery. Andreski
+
+
+## Writing and Argumentation
+
+### In Social Sciences
+
+1. ~~Writing for social scientists. Becker~~
+2. Arguing and thinking. Billing
+3. Learn to Write Badly. Billing
+
+
+### Fiction
+
+1. Plot & structure. Scott Bell
+
+
 
